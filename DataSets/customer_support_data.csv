@@ -1,0 +1,1001 @@
+customer_id,issue_type,status,created_at,resolved_at,issue_description
+CUST071,Billing,Open,13/01/2019,08/08/2012,posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin
+CUST045,Billing,Closed,30/08/2005,13/02/2019,congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam
+CUST059,General Inquiry,Closed,20/07/2004,30/03/2010,amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas
+CUST014,Billing,Pending,14/09/2012,24/05/2015,pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor
+CUST005,Technical,Closed,12/07/2015,08/09/2011,ut ultrices vel augue vestibulum ante ipsum primis in faucibus
+CUST029,General Inquiry,Closed,13/01/2014,23/02/2008,morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor
+CUST063,General Inquiry,Pending,31/05/2013,24/04/2014,porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper
+CUST019,Technical,Closed,10/07/2017,03/08/2013,viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui
+CUST005,Billing,Closed,21/01/2007,13/06/2007,ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id
+CUST094,General Inquiry,Open,11/01/2015,11/02/2016,hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur
+CUST028,Billing,Pending,06/03/2004,13/04/2021,ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus
+CUST048,Billing,Pending,29/11/2011,01/02/2006,praesent blandit lacinia erat vestibulum sed magna at nunc commodo
+CUST096,Billing,Closed,29/11/2013,18/02/2007,in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis
+CUST024,General Inquiry,Pending,17/01/2015,05/09/2020,rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor
+CUST009,Technical,Closed,26/05/2011,09/07/2019,etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut
+CUST002,Technical,Pending,09/07/2004,04/05/2005,nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis
+CUST031,General Inquiry,Closed,10/05/2012,17/12/2015,vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus
+CUST053,Billing,Open,04/03/2019,14/03/2003,primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus
+CUST079,Technical,Pending,26/07/2021,29/11/2005,tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque
+CUST098,Technical,Closed,27/08/2007,16/10/2021,eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in
+CUST005,General Inquiry,Pending,17/05/2017,20/07/2011,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus
+CUST049,Billing,Pending,04/03/2010,02/08/2022,nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur
+CUST025,Technical,Open,28/11/2008,27/10/2021,libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis
+CUST029,Billing,Open,08/08/2005,21/01/2010,maecenas tincidunt lacus at velit vivamus vel nulla eget eros
+CUST027,Technical,Closed,17/07/2019,29/07/2020,congue risus semper porta volutpat quam pede lobortis ligula sit amet
+CUST084,General Inquiry,Open,04/01/2020,04/01/2010,dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut
+CUST010,Billing,Open,27/08/2021,10/06/2012,primis in faucibus orci luctus et ultrices posuere cubilia curae
+CUST056,General Inquiry,Closed,13/10/2004,18/09/2015,tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque
+CUST094,General Inquiry,Pending,08/08/2015,09/10/2005,faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum
+CUST037,Billing,Pending,17/04/2006,28/12/2009,sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis
+CUST004,Technical,Closed,09/10/2022,20/02/2012,odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus
+CUST061,General Inquiry,Pending,02/06/2010,10/09/2004,donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit
+CUST069,General Inquiry,Closed,23/10/2016,09/11/2016,orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio
+CUST067,Technical,Pending,14/08/2015,14/11/2009,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed
+CUST038,General Inquiry,Open,21/08/2006,08/04/2007,lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi
+CUST066,Billing,Open,30/11/2007,30/04/2006,metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in
+CUST094,Technical,Open,04/03/2019,17/08/2007,in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec
+CUST040,Billing,Pending,18/07/2014,15/04/2015,est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis
+CUST043,Billing,Pending,04/09/2005,03/08/2005,tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit
+CUST069,Billing,Open,21/06/2005,02/01/2006,odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam
+CUST050,Technical,Closed,11/01/2018,12/01/2010,ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin
+CUST069,General Inquiry,Pending,13/05/2010,12/09/2019,faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus
+CUST022,Technical,Pending,08/12/2004,21/12/2019,ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl
+CUST092,Technical,Pending,13/02/2019,18/09/2010,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus
+CUST064,Billing,Closed,26/01/2018,06/01/2014,rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean
+CUST076,Technical,Open,16/08/2016,24/02/2020,ac nibh fusce lacus purus aliquet at feugiat non pretium
+CUST033,Billing,Closed,05/10/2008,19/11/2016,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at
+CUST095,Billing,Open,07/04/2015,19/04/2004,tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed
+CUST080,Technical,Closed,18/07/2022,30/01/2011,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec
+CUST044,Technical,Closed,04/10/2008,10/09/2017,erat vestibulum sed magna at nunc commodo placerat praesent blandit
+CUST080,Billing,Open,31/01/2020,02/07/2008,in consequat ut nulla sed accumsan felis ut at dolor quis odio
+CUST076,Technical,Closed,04/03/2022,17/07/2012,aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum
+CUST050,Billing,Pending,08/12/2011,21/04/2006,morbi odio odio elementum eu interdum eu tincidunt in leo maecenas
+CUST082,Technical,Open,15/11/2006,01/09/2007,posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae
+CUST038,Billing,Pending,28/03/2003,02/06/2006,cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra
+CUST072,Technical,Pending,29/04/2006,13/10/2007,justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis
+CUST076,Technical,Closed,28/06/2013,01/04/2020,accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor
+CUST037,General Inquiry,Closed,03/05/2014,24/08/2019,accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam
+CUST067,Billing,Open,25/12/2013,20/04/2004,erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit
+CUST051,Billing,Closed,04/10/2007,11/05/2018,amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius
+CUST031,Technical,Closed,06/04/2019,28/12/2003,mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie
+CUST011,Billing,Open,11/07/2011,28/07/2018,non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus
+CUST016,Technical,Pending,14/04/2015,16/01/2021,velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat
+CUST026,General Inquiry,Pending,20/02/2021,07/09/2008,vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat
+CUST051,Technical,Open,16/07/2007,08/01/2004,neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim
+CUST098,Technical,Pending,18/09/2012,03/12/2016,ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet
+CUST095,Billing,Open,19/10/2014,20/03/2004,erat id mauris vulputate elementum nullam varius nulla facilisi cras
+CUST045,General Inquiry,Open,27/08/2005,24/05/2004,nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem
+CUST098,Billing,Closed,12/06/2005,28/05/2005,pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut
+CUST081,Billing,Pending,23/03/2013,10/02/2017,et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet
+CUST042,Technical,Open,01/03/2013,14/08/2017,dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat
+CUST001,Billing,Pending,30/11/2005,01/11/2021,vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa
+CUST008,General Inquiry,Open,31/07/2003,07/05/2012,lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id
+CUST054,General Inquiry,Open,10/01/2006,22/11/2018,consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue
+CUST098,General Inquiry,Pending,29/01/2017,28/02/2015,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris
+CUST079,Technical,Closed,12/01/2019,19/06/2021,leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat
+CUST098,Technical,Open,27/09/2014,15/10/2016,donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet
+CUST086,Technical,Closed,11/04/2008,07/06/2009,at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae
+CUST014,General Inquiry,Open,29/04/2022,20/08/2013,fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in
+CUST033,General Inquiry,Open,15/03/2011,29/10/2020,libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras
+CUST035,General Inquiry,Closed,26/11/2019,13/12/2018,duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus
+CUST025,Billing,Open,21/12/2003,01/04/2017,pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in
+CUST044,General Inquiry,Open,15/10/2005,02/11/2018,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam
+CUST063,Technical,Closed,10/08/2009,10/04/2021,enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus
+CUST096,General Inquiry,Closed,20/04/2022,15/03/2004,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed
+CUST023,Billing,Closed,24/12/2006,09/09/2019,ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla
+CUST025,Technical,Closed,07/11/2016,09/07/2020,vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy
+CUST049,General Inquiry,Open,01/07/2009,22/02/2009,velit id pretium iaculis diam erat fermentum justo nec condimentum
+CUST015,Billing,Closed,14/12/2019,11/05/2005,fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet
+CUST026,Billing,Open,14/11/2016,28/05/2014,donec quis orci eget orci vehicula condimentum curabitur in libero ut
+CUST006,Billing,Open,14/05/2018,20/01/2020,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam
+CUST090,Billing,Closed,12/10/2021,29/10/2011,morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi
+CUST095,Technical,Closed,18/07/2009,19/09/2011,maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at
+CUST071,Billing,Open,20/08/2003,14/04/2004,tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula
+CUST095,General Inquiry,Closed,23/08/2011,23/02/2003,lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio
+CUST071,Billing,Pending,05/04/2017,08/12/2005,nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio
+CUST019,General Inquiry,Pending,01/11/2007,04/01/2012,mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea
+CUST057,General Inquiry,Pending,05/01/2013,11/01/2014,sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus
+CUST021,Billing,Closed,26/05/2011,22/11/2003,nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque
+CUST056,Billing,Closed,04/09/2019,03/07/2008,tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis
+CUST032,Technical,Pending,12/03/2014,21/07/2011,sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus
+CUST100,General Inquiry,Open,05/03/2018,04/02/2014,mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit
+CUST038,General Inquiry,Closed,19/01/2017,26/02/2016,iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla
+CUST022,General Inquiry,Closed,28/10/2016,11/05/2008,consequat in consequat ut nulla sed accumsan felis ut at
+CUST029,Technical,Closed,21/05/2011,07/09/2010,lorem quisque ut erat curabitur gravida nisi at nibh in hac
+CUST063,General Inquiry,Pending,10/01/2003,23/10/2009,viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec
+CUST019,General Inquiry,Open,26/05/2021,04/03/2010,primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis
+CUST096,Technical,Closed,04/11/2003,27/05/2016,enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est
+CUST052,General Inquiry,Pending,11/02/2015,05/09/2007,justo nec condimentum neque sapien placerat ante nulla justo aliquam quis
+CUST005,Technical,Open,10/01/2021,17/06/2012,accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec
+CUST057,Billing,Closed,23/04/2014,07/09/2009,donec ut mauris eget massa tempor convallis nulla neque libero convallis
+CUST026,Billing,Closed,24/05/2021,22/11/2013,vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+CUST048,Technical,Closed,14/03/2013,03/04/2007,in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum
+CUST060,Billing,Open,18/11/2015,22/01/2020,dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae
+CUST100,Technical,Open,23/02/2006,17/02/2006,curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget
+CUST003,General Inquiry,Closed,20/10/2019,19/03/2007,sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis
+CUST006,General Inquiry,Open,11/11/2021,24/03/2011,molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in
+CUST077,Billing,Closed,03/12/2006,17/05/2020,turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum
+CUST046,Technical,Open,21/03/2009,10/07/2017,vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor
+CUST077,Billing,Closed,22/05/2008,07/07/2021,iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl
+CUST040,Technical,Open,09/07/2018,05/06/2004,in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus
+CUST079,Technical,Open,05/11/2003,13/02/2012,ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl
+CUST078,Technical,Closed,18/09/2003,24/04/2003,sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus
+CUST013,Technical,Closed,13/09/2010,14/02/2010,erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit
+CUST051,General Inquiry,Open,08/01/2017,21/04/2014,sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis
+CUST017,Billing,Closed,14/11/2019,14/03/2009,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam
+CUST083,Technical,Closed,08/01/2020,08/01/2015,dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim
+CUST047,Technical,Open,01/02/2011,19/08/2015,pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac
+CUST007,Technical,Closed,04/07/2003,05/11/2006,justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra
+CUST067,Technical,Closed,28/03/2003,11/05/2006,vestibulum ac est lacinia nisi venenatis tristique fusce congue diam
+CUST012,Technical,Pending,17/09/2019,18/06/2013,faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum
+CUST001,Technical,Pending,21/01/2013,22/09/2017,non sodales sed tincidunt eu felis fusce posuere felis sed lacus
+CUST020,Technical,Pending,19/09/2022,07/08/2016,lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in
+CUST023,Billing,Closed,17/12/2004,21/05/2006,tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi
+CUST074,Technical,Closed,30/10/2019,13/04/2021,justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit
+CUST021,General Inquiry,Open,04/08/2007,22/08/2006,a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt
+CUST013,Technical,Closed,01/04/2021,20/04/2020,id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est
+CUST075,Billing,Open,14/03/2010,20/11/2017,odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit
+CUST003,Technical,Pending,05/12/2015,18/05/2011,proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget
+CUST010,General Inquiry,Pending,25/08/2021,31/03/2018,hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec
+CUST052,Billing,Pending,05/01/2021,21/07/2021,nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit
+CUST085,Technical,Closed,13/12/2007,07/05/2013,sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique
+CUST011,General Inquiry,Open,20/09/2014,16/10/2003,arcu libero rutrum ac lobortis vel dapibus at diam nam tristique
+CUST086,Billing,Open,26/09/2021,05/01/2010,pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst
+CUST007,General Inquiry,Open,18/03/2012,13/02/2005,luctus ultricies eu nibh quisque id justo sit amet sapien dignissim
+CUST086,Technical,Closed,24/10/2003,13/07/2006,ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor
+CUST041,Billing,Open,29/06/2022,02/11/2009,semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in
+CUST079,Technical,Closed,12/07/2020,13/01/2014,pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta
+CUST093,Technical,Open,12/11/2022,26/12/2004,purus sit amet nulla quisque arcu libero rutrum ac lobortis vel
+CUST025,Technical,Pending,05/04/2021,10/11/2006,cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices
+CUST013,General Inquiry,Open,01/06/2014,17/01/2006,potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis
+CUST084,Technical,Closed,29/10/2017,01/01/2006,penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor
+CUST043,General Inquiry,Open,16/10/2012,19/04/2020,fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit
+CUST080,General Inquiry,Closed,29/05/2009,30/11/2022,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan
+CUST022,General Inquiry,Pending,02/03/2019,09/01/2013,morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices
+CUST077,Billing,Closed,20/10/2018,02/08/2010,sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede
+CUST064,General Inquiry,Open,06/04/2014,27/07/2022,ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+CUST080,General Inquiry,Closed,30/12/2005,20/06/2011,rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec
+CUST077,Billing,Open,18/02/2007,26/01/2013,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus
+CUST021,General Inquiry,Closed,09/01/2017,24/01/2015,eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes
+CUST066,General Inquiry,Open,21/11/2005,16/08/2004,leo odio porttitor id consequat in consequat ut nulla sed accumsan
+CUST049,Billing,Open,22/08/2007,14/02/2010,etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum
+CUST080,Technical,Open,23/05/2022,12/07/2009,duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit
+CUST026,Technical,Closed,08/11/2005,05/03/2007,odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat
+CUST052,Billing,Pending,06/08/2010,13/11/2009,in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus
+CUST071,Billing,Open,15/12/2013,07/05/2019,habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla
+CUST048,Technical,Closed,07/12/2009,27/01/2015,quis tortor id nulla ultrices aliquet maecenas leo odio condimentum
+CUST096,General Inquiry,Pending,02/10/2011,17/09/2015,in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse
+CUST015,General Inquiry,Open,26/10/2012,13/04/2006,consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar
+CUST048,Technical,Open,02/02/2003,02/06/2012,nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis
+CUST060,General Inquiry,Open,02/01/2010,27/12/2011,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus
+CUST077,General Inquiry,Pending,14/05/2015,12/11/2005,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu
+CUST032,Billing,Closed,16/03/2008,05/02/2018,aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue
+CUST070,Technical,Open,14/09/2008,22/09/2007,purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat
+CUST075,General Inquiry,Pending,07/02/2005,08/10/2003,non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst
+CUST029,Billing,Pending,25/10/2006,19/09/2010,morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat
+CUST022,Billing,Pending,26/08/2003,17/04/2004,nec sem duis aliquam convallis nunc proin at turpis a pede posuere
+CUST035,General Inquiry,Open,04/05/2022,16/11/2016,semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut
+CUST062,Technical,Pending,01/08/2006,12/09/2020,cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra
+CUST057,General Inquiry,Closed,08/06/2008,17/03/2004,nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula
+CUST063,Billing,Pending,27/03/2018,11/11/2011,rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus
+CUST043,Technical,Closed,11/02/2004,16/05/2022,amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla
+CUST011,General Inquiry,Pending,23/10/2007,01/08/2018,venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate
+CUST089,General Inquiry,Pending,12/05/2011,08/05/2018,lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt
+CUST055,General Inquiry,Pending,18/06/2019,19/10/2019,a odio in hac habitasse platea dictumst maecenas ut massa quis augue
+CUST040,Technical,Pending,30/04/2014,30/03/2018,duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio
+CUST022,Billing,Pending,28/03/2004,09/12/2018,nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede
+CUST091,Technical,Closed,07/01/2009,09/05/2014,ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque
+CUST038,General Inquiry,Closed,20/09/2019,20/02/2020,vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse
+CUST068,Technical,Pending,20/07/2022,30/11/2017,non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa
+CUST033,General Inquiry,Pending,06/04/2008,15/09/2006,ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices
+CUST081,Technical,Closed,15/04/2019,03/07/2006,non sodales sed tincidunt eu felis fusce posuere felis sed
+CUST013,General Inquiry,Closed,03/07/2007,28/10/2019,phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu
+CUST077,Billing,Open,03/08/2018,27/11/2004,erat volutpat in congue etiam justo etiam pretium iaculis justo in
+CUST005,General Inquiry,Closed,27/05/2007,27/07/2009,pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et
+CUST081,Billing,Pending,17/12/2020,20/12/2017,duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget
+CUST065,Billing,Open,24/05/2014,31/05/2018,consequat in consequat ut nulla sed accumsan felis ut at dolor quis
+CUST078,Technical,Pending,15/11/2010,15/09/2019,integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse
+CUST027,Billing,Closed,22/07/2013,26/09/2012,nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim
+CUST084,Technical,Open,16/07/2004,14/11/2007,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla
+CUST089,General Inquiry,Closed,22/05/2012,13/08/2020,tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean
+CUST063,Technical,Pending,11/06/2022,19/09/2015,varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+CUST004,Technical,Open,25/01/2012,29/12/2011,orci eget orci vehicula condimentum curabitur in libero ut massa
+CUST085,Technical,Open,25/04/2003,05/08/2011,leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus
+CUST092,General Inquiry,Closed,22/08/2022,31/03/2011,platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam
+CUST021,General Inquiry,Closed,25/05/2014,22/12/2012,tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum
+CUST052,Billing,Closed,14/05/2019,02/12/2011,ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac
+CUST068,Technical,Pending,27/08/2005,24/10/2013,congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue
+CUST044,Technical,Closed,17/06/2014,09/11/2018,vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+CUST099,Billing,Closed,08/07/2021,28/10/2006,placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget
+CUST016,Technical,Closed,07/04/2017,27/06/2012,luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum
+CUST080,Technical,Open,12/11/2018,09/05/2005,sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula
+CUST089,General Inquiry,Pending,04/12/2020,14/02/2014,sapien a libero nam dui proin leo odio porttitor id
+CUST036,Technical,Open,17/11/2007,30/11/2005,arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis
+CUST021,Technical,Open,03/03/2013,01/05/2018,rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat
+CUST066,Technical,Open,01/04/2020,23/06/2011,sed accumsan felis ut at dolor quis odio consequat varius integer ac
+CUST096,Billing,Open,05/02/2020,01/12/2019,ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit
+CUST076,Technical,Pending,14/07/2009,09/09/2010,tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum
+CUST090,General Inquiry,Pending,07/10/2014,23/09/2010,quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus
+CUST066,Billing,Pending,06/12/2008,19/03/2018,congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc
+CUST033,Technical,Open,10/07/2012,07/09/2013,pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea
+CUST051,Billing,Closed,23/09/2015,22/09/2017,tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel
+CUST043,Billing,Open,19/02/2012,02/04/2015,lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna
+CUST071,General Inquiry,Open,10/12/2017,01/09/2017,tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac
+CUST004,Billing,Pending,05/07/2021,11/01/2011,tellus nulla ut erat id mauris vulputate elementum nullam varius nulla
+CUST092,General Inquiry,Pending,07/06/2010,21/05/2020,nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit
+CUST038,General Inquiry,Closed,15/10/2020,18/08/2018,odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia
+CUST051,General Inquiry,Closed,21/05/2005,29/05/2007,lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus
+CUST052,Technical,Pending,25/02/2019,20/09/2013,tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac
+CUST016,General Inquiry,Open,19/05/2008,25/06/2005,nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan
+CUST044,Billing,Open,23/05/2021,29/10/2016,enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh
+CUST013,Technical,Open,22/04/2009,04/07/2022,vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus
+CUST065,General Inquiry,Open,18/08/2004,15/07/2021,condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat
+CUST068,General Inquiry,Pending,11/01/2004,02/05/2008,elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus
+CUST027,Billing,Pending,19/02/2006,10/02/2005,luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec
+CUST090,Billing,Closed,29/05/2011,28/09/2013,adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc
+CUST027,Technical,Open,16/04/2021,01/04/2007,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor
+CUST012,General Inquiry,Pending,13/01/2019,17/12/2005,rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id
+CUST009,Technical,Closed,04/09/2021,25/12/2017,erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc
+CUST053,Technical,Open,11/09/2016,03/11/2017,amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi
+CUST009,Billing,Pending,16/05/2007,14/01/2021,in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet
+CUST068,Billing,Closed,03/03/2009,13/04/2014,curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam
+CUST064,Technical,Closed,04/01/2009,29/06/2016,sollicitudin mi sit amet lobortis sapien sapien non mi integer ac
+CUST080,General Inquiry,Open,24/02/2012,18/09/2011,ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in
+CUST045,Technical,Pending,09/08/2022,30/06/2021,diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis
+CUST043,General Inquiry,Open,01/01/2018,24/06/2022,congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium
+CUST008,Billing,Open,19/05/2012,27/02/2008,in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi
+CUST027,General Inquiry,Open,22/05/2006,06/03/2007,nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla
+CUST093,Technical,Pending,28/12/2021,11/02/2018,sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis
+CUST038,General Inquiry,Open,27/12/2018,26/11/2015,ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer
+CUST035,Technical,Closed,15/11/2003,02/07/2007,ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus
+CUST042,Technical,Closed,11/05/2011,23/01/2021,sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at
+CUST013,Technical,Pending,29/10/2009,15/03/2022,ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices
+CUST097,Billing,Closed,01/11/2020,28/11/2007,ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at
+CUST099,Technical,Closed,31/10/2011,12/02/2021,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio
+CUST058,General Inquiry,Closed,18/04/2012,06/11/2008,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at
+CUST083,General Inquiry,Pending,27/05/2015,03/05/2006,libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu
+CUST083,Billing,Open,17/12/2016,15/11/2020,amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci
+CUST068,General Inquiry,Closed,09/06/2021,30/01/2007,orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui
+CUST053,Billing,Pending,27/03/2021,10/11/2022,scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam
+CUST100,Technical,Pending,20/02/2021,12/02/2018,primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna
+CUST049,Billing,Pending,26/10/2009,14/11/2018,in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate
+CUST014,General Inquiry,Open,27/05/2018,15/07/2022,euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at
+CUST003,General Inquiry,Closed,25/10/2022,10/08/2020,pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur
+CUST081,Billing,Open,11/12/2013,07/08/2016,libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum
+CUST060,Technical,Closed,23/04/2016,20/09/2018,justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla
+CUST080,Billing,Open,28/11/2012,22/01/2013,semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut
+CUST016,Technical,Closed,27/04/2003,07/12/2013,vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget
+CUST063,Technical,Pending,05/11/2022,20/09/2013,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien
+CUST056,Technical,Closed,11/06/2022,22/01/2017,velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque
+CUST097,Technical,Open,04/08/2007,07/12/2018,varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+CUST052,Billing,Pending,19/11/2022,27/08/2008,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci
+CUST024,Billing,Pending,18/07/2015,15/10/2012,montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis
+CUST033,General Inquiry,Pending,29/10/2021,10/11/2003,congue elementum in hac habitasse platea dictumst morbi vestibulum velit id
+CUST066,General Inquiry,Pending,22/02/2015,13/04/2012,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+CUST067,Billing,Pending,08/05/2010,16/02/2018,mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh
+CUST026,Billing,Open,02/11/2006,10/02/2021,nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus
+CUST079,Billing,Pending,03/03/2017,21/07/2019,vestibulum ac est lacinia nisi venenatis tristique fusce congue diam
+CUST061,Billing,Open,23/07/2015,18/08/2003,fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu
+CUST049,Billing,Open,01/07/2010,02/08/2020,neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet
+CUST026,General Inquiry,Closed,06/03/2018,16/12/2021,massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu
+CUST084,General Inquiry,Pending,06/08/2008,13/10/2008,orci pede venenatis non sodales sed tincidunt eu felis fusce
+CUST072,General Inquiry,Pending,24/04/2021,10/06/2014,nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in
+CUST065,Technical,Closed,12/02/2009,12/03/2018,interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien
+CUST017,Technical,Closed,26/04/2009,20/06/2013,ac est lacinia nisi venenatis tristique fusce congue diam id ornare
+CUST095,Technical,Open,21/02/2010,17/08/2015,convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia
+CUST009,General Inquiry,Closed,03/07/2005,20/02/2017,libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet
+CUST073,General Inquiry,Pending,13/12/2021,09/06/2015,velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo
+CUST037,Billing,Open,30/07/2019,18/11/2007,urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat
+CUST070,Billing,Closed,03/12/2013,10/04/2020,bibendum morbi non quam nec dui luctus rutrum nulla tellus in
+CUST093,General Inquiry,Pending,26/03/2011,06/06/2019,leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis
+CUST013,Technical,Pending,08/01/2006,04/10/2009,ac nibh fusce lacus purus aliquet at feugiat non pretium quis
+CUST029,Billing,Pending,25/10/2014,23/02/2019,pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla
+CUST094,Billing,Closed,13/09/2006,25/09/2006,erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus
+CUST042,General Inquiry,Pending,05/10/2022,08/02/2013,tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo
+CUST066,General Inquiry,Pending,29/11/2018,06/07/2004,quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus
+CUST054,Billing,Closed,25/03/2017,03/06/2020,sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus
+CUST087,Technical,Open,29/05/2012,13/03/2009,ligula nec sem duis aliquam convallis nunc proin at turpis a
+CUST056,General Inquiry,Pending,25/03/2004,18/05/2004,vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient
+CUST052,General Inquiry,Open,01/10/2012,08/08/2014,erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse
+CUST019,Technical,Closed,19/03/2014,18/12/2010,convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id
+CUST090,Technical,Pending,15/05/2008,19/01/2011,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor
+CUST030,Billing,Closed,29/11/2008,10/09/2006,lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl
+CUST083,Technical,Open,18/09/2013,10/06/2004,diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere
+CUST028,Technical,Closed,29/09/2018,11/04/2020,pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst
+CUST061,Technical,Pending,22/07/2020,10/01/2019,nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus
+CUST045,General Inquiry,Open,02/07/2008,27/11/2016,bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus
+CUST042,General Inquiry,Pending,07/03/2016,20/01/2006,integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula
+CUST052,Billing,Pending,17/08/2015,10/08/2016,morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo
+CUST085,General Inquiry,Open,25/10/2020,06/10/2003,mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero
+CUST025,General Inquiry,Open,26/06/2017,06/02/2003,cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer
+CUST019,Technical,Closed,04/05/2012,06/06/2013,sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero
+CUST058,General Inquiry,Closed,20/03/2013,14/03/2016,leo odio porttitor id consequat in consequat ut nulla sed accumsan felis
+CUST064,General Inquiry,Closed,09/10/2017,02/08/2004,tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris
+CUST093,Billing,Closed,28/08/2005,26/12/2016,erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget
+CUST027,Technical,Open,03/04/2017,23/02/2003,at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna
+CUST026,General Inquiry,Closed,08/07/2017,18/03/2009,proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam
+CUST044,Billing,Pending,23/07/2011,04/08/2020,in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis
+CUST081,General Inquiry,Open,26/11/2019,03/04/2004,est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam
+CUST096,General Inquiry,Open,15/01/2006,15/01/2015,vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum
+CUST001,General Inquiry,Closed,19/02/2007,05/08/2014,sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus
+CUST079,Technical,Pending,12/08/2006,29/08/2011,potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus
+CUST002,Technical,Open,31/12/2006,14/04/2018,erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum
+CUST003,Billing,Pending,21/06/2004,06/06/2017,lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta
+CUST009,Billing,Closed,26/01/2009,16/05/2021,in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod
+CUST006,Billing,Closed,02/03/2019,18/06/2008,tristique est et tempus semper est quam pharetra magna ac
+CUST012,Technical,Open,03/09/2004,16/10/2006,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at
+CUST023,Technical,Open,21/06/2019,09/08/2003,vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem
+CUST089,Billing,Closed,11/09/2005,09/02/2021,praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel
+CUST098,General Inquiry,Pending,02/10/2004,24/05/2012,curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel
+CUST083,Billing,Closed,12/12/2004,28/11/2017,tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci
+CUST060,Billing,Open,17/07/2010,25/10/2004,cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis
+CUST034,Billing,Open,06/05/2012,23/07/2004,luctus nec molestie sed justo pellentesque viverra pede ac diam
+CUST050,Billing,Open,21/09/2004,15/10/2005,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien
+CUST075,Technical,Open,01/05/2022,20/10/2020,elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at
+CUST077,General Inquiry,Pending,01/05/2020,17/04/2007,luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin
+CUST019,General Inquiry,Pending,24/04/2010,22/11/2017,turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis
+CUST025,Technical,Open,01/04/2018,13/12/2013,cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam
+CUST037,General Inquiry,Pending,21/03/2018,03/02/2011,mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque
+CUST044,Technical,Open,06/08/2011,15/02/2008,ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper
+CUST035,General Inquiry,Open,16/02/2007,30/01/2013,quam nec dui luctus rutrum nulla tellus in sagittis dui vel
+CUST016,Billing,Closed,24/08/2008,14/03/2012,pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus
+CUST056,Technical,Closed,05/10/2009,10/04/2004,pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo
+CUST037,General Inquiry,Open,09/03/2016,24/03/2003,est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus
+CUST038,General Inquiry,Pending,02/05/2011,08/03/2004,malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor
+CUST039,Billing,Closed,12/06/2008,08/10/2005,pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus
+CUST008,Technical,Open,01/07/2003,15/04/2015,in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin
+CUST056,General Inquiry,Pending,22/04/2009,15/03/2007,ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie
+CUST095,Billing,Pending,03/10/2008,21/05/2022,rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan
+CUST025,Technical,Open,22/08/2005,09/06/2019,id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed
+CUST011,Technical,Pending,18/10/2014,13/07/2018,sodales sed tincidunt eu felis fusce posuere felis sed lacus
+CUST065,Billing,Pending,23/09/2021,15/10/2003,faucibus orci luctus et ultrices posuere cubilia curae donec pharetra
+CUST012,General Inquiry,Pending,18/02/2007,19/09/2008,at velit vivamus vel nulla eget eros elementum pellentesque quisque
+CUST024,Technical,Open,07/10/2016,22/05/2017,velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros
+CUST044,Billing,Open,11/10/2015,23/03/2013,eu magna vulputate luctus cum sociis natoque penatibus et magnis dis
+CUST076,Technical,Closed,24/04/2005,08/10/2020,habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum
+CUST098,Billing,Closed,04/04/2011,08/09/2011,ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu
+CUST052,Billing,Closed,11/11/2011,05/03/2013,duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam
+CUST013,Technical,Open,01/02/2008,22/01/2022,nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus
+CUST090,General Inquiry,Pending,15/09/2017,05/07/2013,pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis
+CUST073,General Inquiry,Open,03/05/2016,11/01/2009,bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh
+CUST023,General Inquiry,Pending,04/05/2008,10/03/2015,vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris
+CUST065,General Inquiry,Closed,14/01/2006,01/07/2015,lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac
+CUST048,General Inquiry,Closed,17/01/2013,11/02/2014,morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc
+CUST092,General Inquiry,Closed,24/09/2003,10/03/2013,lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci
+CUST034,Technical,Open,13/02/2021,24/06/2003,in faucibus orci luctus et ultrices posuere cubilia curae donec
+CUST001,Technical,Closed,17/11/2018,21/10/2020,dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum
+CUST006,General Inquiry,Closed,30/10/2020,12/02/2006,dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla
+CUST074,Technical,Closed,20/08/2011,11/04/2005,luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend
+CUST013,Technical,Pending,05/07/2019,02/11/2014,habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante
+CUST049,General Inquiry,Closed,07/09/2018,11/05/2016,diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non
+CUST020,Technical,Closed,15/01/2016,04/08/2014,dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis
+CUST042,General Inquiry,Open,30/09/2004,02/07/2012,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt
+CUST055,Technical,Pending,06/03/2006,26/02/2004,vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+CUST081,Billing,Closed,15/10/2013,28/07/2015,a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna
+CUST036,Technical,Pending,30/06/2003,26/05/2006,vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+CUST015,Billing,Open,30/12/2008,01/11/2019,nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi
+CUST030,Billing,Open,01/05/2018,22/05/2015,aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat
+CUST063,Technical,Open,26/06/2005,04/10/2009,praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia
+CUST093,Technical,Closed,15/03/2007,28/01/2003,quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse
+CUST099,Technical,Open,26/09/2005,02/07/2007,vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit
+CUST050,General Inquiry,Closed,08/12/2011,14/04/2020,auctor sed tristique in tempus sit amet sem fusce consequat
+CUST086,Technical,Pending,29/04/2009,04/11/2016,at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque
+CUST005,Billing,Pending,12/06/2006,17/07/2014,rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam
+CUST042,General Inquiry,Open,06/02/2012,07/04/2022,a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus
+CUST014,Technical,Open,24/10/2006,05/07/2022,volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec
+CUST008,Billing,Open,06/07/2013,19/12/2013,lacus purus aliquet at feugiat non pretium quis lectus suspendisse
+CUST066,Technical,Open,18/05/2018,30/04/2008,massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at
+CUST073,Technical,Closed,06/09/2009,18/08/2012,aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget
+CUST082,General Inquiry,Closed,15/03/2004,29/11/2004,nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla
+CUST084,Billing,Closed,03/06/2008,06/03/2009,tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor
+CUST085,Billing,Pending,10/10/2009,18/10/2005,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla
+CUST084,General Inquiry,Closed,21/03/2012,12/02/2011,rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit
+CUST092,Technical,Open,16/10/2003,01/06/2018,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque
+CUST018,Billing,Pending,24/04/2017,24/11/2003,pretium quis lectus suspendisse potenti in eleifend quam a odio in
+CUST095,General Inquiry,Pending,05/12/2009,07/09/2016,congue diam id ornare imperdiet sapien urna pretium nisl ut
+CUST064,General Inquiry,Closed,01/07/2006,21/12/2019,luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit
+CUST035,Technical,Open,08/06/2017,06/09/2018,sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque
+CUST095,General Inquiry,Open,13/04/2021,19/03/2007,integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id
+CUST012,General Inquiry,Open,27/02/2008,29/05/2012,fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in
+CUST007,General Inquiry,Open,15/05/2004,08/01/2019,metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus
+CUST042,General Inquiry,Closed,19/06/2006,25/06/2004,consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede
+CUST003,General Inquiry,Open,07/12/2014,07/12/2017,gravida sem praesent id massa id nisl venenatis lacinia aenean sit
+CUST082,Billing,Pending,15/06/2006,04/10/2016,ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl
+CUST093,General Inquiry,Pending,16/06/2005,21/03/2020,consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero
+CUST087,Technical,Closed,18/11/2005,31/07/2018,blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum
+CUST066,Technical,Open,02/05/2014,24/04/2008,magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien
+CUST080,Technical,Open,28/06/2020,25/08/2019,ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi
+CUST097,Billing,Pending,17/01/2003,20/10/2013,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis
+CUST027,General Inquiry,Closed,03/09/2021,13/11/2010,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla
+CUST002,Technical,Pending,17/04/2006,07/06/2007,pede ac diam cras pellentesque volutpat dui maecenas tristique est
+CUST099,Billing,Open,14/01/2003,23/12/2013,id pretium iaculis diam erat fermentum justo nec condimentum neque sapien
+CUST049,Billing,Closed,07/04/2008,30/04/2012,fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti
+CUST009,General Inquiry,Open,25/12/2010,19/03/2014,eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est
+CUST087,General Inquiry,Open,24/02/2014,26/05/2015,maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat
+CUST077,Technical,Closed,19/02/2016,25/02/2010,sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at
+CUST025,Billing,Pending,10/06/2018,17/10/2005,amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus
+CUST046,General Inquiry,Closed,20/03/2010,05/11/2016,varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel
+CUST014,General Inquiry,Pending,19/05/2013,21/10/2020,convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia
+CUST078,General Inquiry,Open,15/12/2010,05/02/2016,consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim
+CUST099,Technical,Pending,18/10/2010,01/11/2010,in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan
+CUST090,Technical,Open,06/01/2022,18/09/2017,suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt
+CUST100,Technical,Open,21/12/2017,28/03/2012,praesent id massa id nisl venenatis lacinia aenean sit amet
+CUST040,Billing,Open,28/05/2020,08/08/2016,at vulputate vitae nisl aenean lectus pellentesque eget nunc donec
+CUST026,General Inquiry,Pending,13/07/2007,10/12/2006,erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a
+CUST029,Technical,Pending,04/02/2010,19/02/2022,dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam
+CUST064,General Inquiry,Pending,29/07/2015,11/08/2015,massa id nisl venenatis lacinia aenean sit amet justo morbi ut
+CUST014,General Inquiry,Open,08/01/2009,12/12/2013,sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum
+CUST032,Technical,Closed,27/09/2019,27/09/2013,potenti nullam porttitor lacus at turpis donec posuere metus vitae
+CUST072,General Inquiry,Open,25/07/2014,22/02/2016,eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit
+CUST024,Billing,Pending,20/11/2015,23/08/2008,pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc
+CUST037,Technical,Pending,30/04/2011,31/07/2017,id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget
+CUST003,Technical,Open,04/08/2019,22/05/2019,maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at
+CUST038,Technical,Closed,04/02/2011,20/07/2017,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus
+CUST047,General Inquiry,Open,02/10/2016,26/01/2021,integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas
+CUST039,Technical,Open,30/12/2011,19/05/2016,quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede
+CUST064,Technical,Open,15/07/2016,06/05/2008,pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient
+CUST024,Billing,Pending,19/03/2008,22/02/2013,erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a
+CUST051,Billing,Pending,19/02/2022,21/10/2019,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus
+CUST021,General Inquiry,Open,02/06/2007,25/05/2019,volutpat in congue etiam justo etiam pretium iaculis justo in
+CUST025,Billing,Open,18/10/2005,06/04/2013,sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum
+CUST058,General Inquiry,Pending,01/06/2004,15/02/2013,in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst
+CUST027,General Inquiry,Closed,09/03/2005,11/04/2003,curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac
+CUST034,Technical,Closed,20/03/2007,27/06/2005,ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc
+CUST064,Billing,Pending,29/03/2008,12/01/2004,sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst
+CUST046,Technical,Open,28/02/2007,12/10/2011,commodo placerat praesent blandit nam nulla integer pede justo lacinia
+CUST063,Technical,Open,03/06/2018,03/08/2013,volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in
+CUST080,Technical,Open,12/11/2022,08/01/2010,hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec
+CUST024,Billing,Pending,01/08/2015,18/12/2019,fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc
+CUST097,General Inquiry,Open,07/01/2010,05/09/2021,nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet
+CUST040,General Inquiry,Open,03/11/2005,15/04/2009,sit amet eleifend pede libero quis orci nullam molestie nibh in
+CUST074,Technical,Closed,22/02/2015,30/09/2004,cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor
+CUST078,Billing,Open,23/10/2015,02/03/2007,eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet
+CUST020,Billing,Closed,18/03/2022,08/02/2022,praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede
+CUST066,Technical,Pending,25/11/2022,06/12/2012,ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu
+CUST047,Billing,Open,17/02/2006,08/09/2022,ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a
+CUST019,General Inquiry,Pending,20/06/2018,17/08/2008,praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut
+CUST058,Technical,Pending,01/01/2009,07/09/2012,vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio
+CUST093,Billing,Open,15/04/2008,02/01/2021,bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis
+CUST010,General Inquiry,Closed,15/11/2018,07/02/2019,eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien
+CUST035,Billing,Closed,08/07/2013,25/12/2010,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat
+CUST032,General Inquiry,Closed,18/12/2014,26/10/2005,quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc
+CUST025,Billing,Pending,07/05/2011,05/12/2017,condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu
+CUST028,Billing,Pending,29/09/2018,05/10/2007,a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices
+CUST079,General Inquiry,Closed,02/04/2016,24/11/2014,nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus
+CUST097,General Inquiry,Pending,10/05/2013,07/05/2005,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris
+CUST003,Billing,Closed,25/02/2007,08/02/2009,porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie
+CUST100,General Inquiry,Closed,07/11/2011,10/12/2017,aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo
+CUST078,General Inquiry,Closed,18/05/2015,05/01/2004,purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in
+CUST081,Technical,Pending,24/03/2007,16/09/2005,pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue
+CUST068,Billing,Closed,09/08/2020,13/08/2009,a ipsum integer a nibh in quis justo maecenas rhoncus
+CUST079,Billing,Open,20/04/2017,18/11/2016,adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque
+CUST049,General Inquiry,Open,19/12/2005,25/11/2008,aliquam convallis nunc proin at turpis a pede posuere nonummy integer non
+CUST035,General Inquiry,Open,27/02/2010,05/08/2006,dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum
+CUST068,Technical,Open,12/10/2022,17/02/2017,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices
+CUST020,Billing,Open,27/08/2020,31/10/2011,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu
+CUST083,General Inquiry,Closed,21/05/2009,07/11/2005,etiam faucibus cursus urna ut tellus nulla ut erat id mauris
+CUST006,Technical,Pending,23/05/2004,03/02/2013,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in
+CUST099,Technical,Pending,28/01/2013,07/10/2017,orci luctus et ultrices posuere cubilia curae donec pharetra magna
+CUST099,General Inquiry,Open,06/03/2008,17/12/2009,luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante
+CUST056,Technical,Open,04/11/2010,24/01/2008,morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque
+CUST041,Billing,Open,16/03/2016,20/10/2022,eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat
+CUST011,Technical,Pending,19/06/2007,14/03/2006,felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam
+CUST014,Technical,Open,21/05/2016,18/05/2016,libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet
+CUST019,General Inquiry,Closed,27/03/2012,06/05/2015,volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis
+CUST083,General Inquiry,Pending,06/11/2009,14/10/2005,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non
+CUST079,General Inquiry,Closed,16/07/2016,26/08/2003,nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac
+CUST071,Technical,Pending,07/04/2017,26/08/2016,sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper
+CUST045,General Inquiry,Open,14/08/2021,07/05/2019,molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula
+CUST047,General Inquiry,Closed,12/09/2012,13/06/2017,lectus in quam fringilla rhoncus mauris enim leo rhoncus sed
+CUST002,Technical,Pending,11/05/2008,10/03/2019,nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus
+CUST029,Billing,Open,07/02/2011,04/12/2016,ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra
+CUST047,Billing,Pending,17/06/2006,28/11/2007,sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus
+CUST011,General Inquiry,Open,14/01/2006,16/04/2011,varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam
+CUST058,Billing,Pending,05/01/2019,08/02/2020,mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a
+CUST074,General Inquiry,Pending,25/01/2003,23/02/2003,vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis
+CUST062,Billing,Open,22/05/2008,05/06/2003,cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis
+CUST076,Technical,Open,25/08/2010,12/06/2020,tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum
+CUST018,Billing,Pending,21/02/2004,01/03/2011,nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer
+CUST037,Billing,Open,29/12/2019,06/01/2003,maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum
+CUST027,General Inquiry,Closed,25/05/2007,26/05/2010,est risus auctor sed tristique in tempus sit amet sem fusce
+CUST100,General Inquiry,Closed,05/11/2014,21/11/2010,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris
+CUST056,Technical,Closed,27/02/2014,15/10/2020,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu
+CUST087,Technical,Pending,05/03/2021,19/09/2007,mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet
+CUST058,General Inquiry,Pending,17/10/2009,13/03/2011,quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam
+CUST017,General Inquiry,Pending,25/12/2010,04/09/2020,ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam
+CUST089,Technical,Pending,19/07/2013,03/09/2011,congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum
+CUST013,General Inquiry,Pending,08/09/2022,02/10/2006,ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec
+CUST050,General Inquiry,Open,19/05/2016,21/03/2021,leo rhoncus sed vestibulum sit amet cursus id turpis integer
+CUST050,Billing,Pending,29/06/2008,03/02/2010,at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel
+CUST014,Technical,Pending,20/05/2010,08/12/2008,cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut
+CUST022,Billing,Closed,26/01/2014,08/10/2013,aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut
+CUST062,Billing,Open,07/01/2005,14/08/2019,amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris
+CUST079,Billing,Closed,03/05/2012,05/07/2005,pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique
+CUST095,Technical,Open,18/06/2005,05/03/2022,dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit
+CUST049,Billing,Closed,12/11/2020,10/05/2009,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus
+CUST084,Billing,Closed,17/03/2016,28/05/2016,id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at
+CUST069,General Inquiry,Closed,27/11/2008,06/12/2005,cras pellentesque volutpat dui maecenas tristique est et tempus semper est
+CUST044,Billing,Closed,07/02/2014,28/03/2004,cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi
+CUST082,Billing,Pending,27/04/2009,05/11/2010,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas
+CUST025,Technical,Closed,18/11/2018,04/07/2003,bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac
+CUST068,General Inquiry,Pending,14/07/2006,06/08/2009,faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum
+CUST024,Technical,Closed,02/03/2008,21/06/2016,praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget
+CUST006,General Inquiry,Closed,11/12/2009,03/11/2011,consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo
+CUST075,Billing,Closed,18/07/2021,19/09/2008,id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante
+CUST024,Billing,Pending,27/07/2006,08/01/2021,nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer
+CUST014,Technical,Closed,25/07/2011,02/03/2022,justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit
+CUST026,Technical,Pending,22/01/2017,20/01/2014,nibh fusce lacus purus aliquet at feugiat non pretium quis lectus
+CUST065,Technical,Open,09/08/2018,16/10/2016,cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan
+CUST096,Technical,Open,11/09/2011,03/06/2003,sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+CUST087,Billing,Open,02/10/2014,31/07/2006,augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis
+CUST094,Technical,Open,18/09/2008,11/10/2020,mollis molestie lorem quisque ut erat curabitur gravida nisi at
+CUST095,Billing,Open,15/01/2010,22/11/2018,neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras
+CUST005,Technical,Pending,18/03/2004,12/11/2004,vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+CUST035,Billing,Closed,09/03/2016,28/03/2019,aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam
+CUST050,Technical,Open,10/04/2020,08/06/2004,eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien
+CUST004,Technical,Pending,09/08/2003,10/11/2005,pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi
+CUST001,General Inquiry,Pending,16/06/2003,28/03/2013,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris
+CUST096,General Inquiry,Pending,25/07/2003,04/06/2013,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus
+CUST011,Technical,Open,07/11/2011,21/05/2004,quam turpis adipiscing lorem vitae mattis nibh ligula nec sem
+CUST090,General Inquiry,Pending,11/01/2017,06/10/2015,pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat
+CUST035,Technical,Open,28/06/2022,21/11/2022,et ultrices posuere cubilia curae nulla dapibus dolor vel est
+CUST001,Billing,Closed,27/05/2017,30/12/2015,morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum
+CUST046,General Inquiry,Closed,18/04/2014,12/12/2013,sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed
+CUST086,General Inquiry,Closed,20/11/2013,14/08/2016,tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam
+CUST019,General Inquiry,Pending,13/06/2022,11/11/2012,placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan
+CUST028,General Inquiry,Open,24/09/2018,21/06/2011,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac
+CUST063,General Inquiry,Pending,16/07/2016,21/04/2011,semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis
+CUST032,Billing,Open,05/12/2022,29/03/2006,fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget
+CUST095,Billing,Closed,24/08/2020,12/12/2011,sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in
+CUST049,Technical,Closed,10/01/2008,01/11/2016,orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a
+CUST038,General Inquiry,Open,15/10/2003,28/04/2011,nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede
+CUST050,Billing,Pending,28/12/2008,03/07/2016,eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim
+CUST012,Billing,Open,26/06/2008,28/11/2007,elementum ligula vehicula consequat morbi a ipsum integer a nibh
+CUST055,Technical,Closed,13/04/2018,27/07/2011,libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu
+CUST078,Technical,Closed,11/01/2016,02/09/2012,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio
+CUST086,Technical,Pending,08/11/2018,28/10/2009,duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus
+CUST047,Technical,Closed,11/02/2003,15/09/2004,at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac
+CUST069,Billing,Pending,19/10/2020,27/06/2016,cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing
+CUST071,Technical,Open,08/10/2015,11/01/2022,integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat
+CUST084,General Inquiry,Closed,20/07/2022,06/12/2014,rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis
+CUST091,General Inquiry,Open,05/12/2014,15/04/2019,posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat
+CUST083,General Inquiry,Pending,15/12/2006,23/08/2022,dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum
+CUST015,Technical,Open,31/05/2011,16/09/2007,semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum
+CUST089,Technical,Pending,30/05/2006,16/05/2019,at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum
+CUST073,Technical,Open,06/10/2011,15/10/2016,maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam
+CUST020,General Inquiry,Open,12/08/2013,17/11/2012,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante
+CUST058,Technical,Open,07/02/2014,29/12/2011,at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in
+CUST055,Technical,Closed,25/01/2009,04/10/2018,ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla
+CUST015,Billing,Closed,21/03/2008,13/02/2004,id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed
+CUST077,General Inquiry,Closed,01/02/2019,18/08/2010,in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo
+CUST037,General Inquiry,Pending,16/06/2014,16/06/2021,quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante
+CUST055,Billing,Open,13/08/2013,05/05/2006,neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris
+CUST030,Technical,Open,02/05/2019,01/05/2009,lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo
+CUST004,General Inquiry,Closed,26/06/2007,17/12/2020,id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam
+CUST080,Technical,Pending,08/07/2014,30/04/2022,duis bibendum morbi non quam nec dui luctus rutrum nulla
+CUST066,Technical,Closed,23/12/2019,22/07/2018,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing
+CUST068,Billing,Closed,21/12/2013,03/08/2017,condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam
+CUST019,General Inquiry,Closed,08/02/2003,03/12/2018,massa tempor convallis nulla neque libero convallis eget eleifend luctus
+CUST033,General Inquiry,Open,14/05/2007,29/03/2007,quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis
+CUST073,Billing,Closed,10/04/2012,29/01/2009,amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus
+CUST045,Billing,Closed,28/12/2008,31/05/2021,at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt
+CUST027,General Inquiry,Closed,07/01/2018,31/07/2020,donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim
+CUST094,Billing,Open,19/08/2011,04/04/2013,viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla
+CUST046,Billing,Open,08/02/2011,17/12/2007,sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget
+CUST063,Technical,Pending,25/08/2005,16/06/2003,dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est
+CUST076,General Inquiry,Pending,08/07/2012,05/05/2010,amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius
+CUST058,Technical,Pending,10/10/2011,11/05/2004,non interdum in ante vestibulum ante ipsum primis in faucibus
+CUST054,Billing,Open,01/11/2019,06/08/2018,adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis
+CUST058,Billing,Pending,27/07/2016,15/10/2022,nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum
+CUST028,Technical,Closed,02/09/2006,28/01/2003,in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis
+CUST039,General Inquiry,Closed,05/05/2007,03/04/2015,ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus
+CUST060,Billing,Open,13/11/2015,30/07/2017,augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus
+CUST053,Technical,Pending,05/11/2006,20/12/2007,justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat
+CUST046,Technical,Pending,03/06/2010,18/01/2004,bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis
+CUST088,Billing,Closed,30/11/2008,24/07/2008,orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam
+CUST024,General Inquiry,Pending,04/03/2009,20/05/2014,curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in
+CUST032,General Inquiry,Closed,01/11/2016,13/03/2019,bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis
+CUST069,Technical,Open,22/04/2018,20/08/2015,in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis
+CUST079,Technical,Closed,06/10/2022,22/05/2006,ante vestibulum ante ipsum primis in faucibus orci luctus et
+CUST041,Billing,Pending,01/07/2020,04/04/2012,volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam
+CUST028,Billing,Open,20/04/2013,09/01/2017,vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc
+CUST097,Technical,Open,20/03/2016,23/07/2021,amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi
+CUST058,Billing,Pending,13/08/2009,07/08/2020,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+CUST068,Billing,Pending,24/06/2020,15/10/2007,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer
+CUST023,General Inquiry,Open,01/01/2021,05/10/2008,suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc
+CUST047,General Inquiry,Open,03/01/2016,27/10/2022,sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis
+CUST092,Billing,Open,21/05/2003,23/10/2009,nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus
+CUST018,General Inquiry,Open,23/11/2022,15/03/2009,odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit
+CUST039,Billing,Open,12/04/2015,25/05/2004,placerat ante nulla justo aliquam quis turpis eget elit sodales
+CUST017,Billing,Pending,18/11/2019,07/07/2015,viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam
+CUST030,General Inquiry,Open,06/11/2009,02/07/2012,porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor
+CUST025,General Inquiry,Pending,12/10/2017,06/10/2008,proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante
+CUST018,General Inquiry,Open,25/11/2014,27/07/2009,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci
+CUST044,General Inquiry,Closed,08/01/2010,23/04/2006,vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra
+CUST032,Billing,Open,04/04/2007,10/01/2016,tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit
+CUST091,Technical,Closed,08/02/2009,11/05/2011,quam pede lobortis ligula sit amet eleifend pede libero quis orci
+CUST012,General Inquiry,Open,02/07/2008,16/04/2006,magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum
+CUST023,Billing,Closed,03/03/2012,08/09/2007,id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris
+CUST017,Billing,Open,22/02/2014,28/08/2009,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing
+CUST010,Technical,Closed,12/01/2006,20/09/2014,dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis
+CUST013,Technical,Open,22/03/2006,10/01/2013,odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at
+CUST028,Billing,Closed,14/01/2017,19/11/2004,in eleifend quam a odio in hac habitasse platea dictumst maecenas ut
+CUST010,General Inquiry,Open,09/10/2006,13/10/2006,nam congue risus semper porta volutpat quam pede lobortis ligula
+CUST029,Billing,Pending,22/09/2007,20/03/2008,risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula
+CUST085,Technical,Open,02/06/2017,16/05/2003,sit amet lobortis sapien sapien non mi integer ac neque duis bibendum
+CUST028,General Inquiry,Closed,14/03/2017,21/01/2009,euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis
+CUST029,General Inquiry,Pending,30/05/2004,28/03/2013,tristique fusce congue diam id ornare imperdiet sapien urna pretium
+CUST072,General Inquiry,Open,14/01/2022,04/10/2006,id luctus nec molestie sed justo pellentesque viverra pede ac diam
+CUST062,Billing,Open,03/12/2015,26/02/2013,viverra pede ac diam cras pellentesque volutpat dui maecenas tristique
+CUST023,Technical,Open,10/05/2022,26/07/2016,in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor
+CUST093,General Inquiry,Open,01/03/2006,05/05/2015,nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo
+CUST066,Billing,Pending,27/01/2021,20/10/2006,massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada
+CUST099,General Inquiry,Closed,14/02/2009,15/10/2015,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse
+CUST038,General Inquiry,Open,04/05/2019,19/09/2022,nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla
+CUST085,Billing,Pending,04/10/2018,12/03/2015,ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate
+CUST018,General Inquiry,Pending,01/04/2020,08/01/2005,ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam
+CUST015,General Inquiry,Pending,24/12/2006,10/08/2014,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam
+CUST034,Billing,Pending,27/02/2019,24/09/2020,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa
+CUST010,General Inquiry,Pending,01/11/2004,29/06/2004,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus
+CUST054,Billing,Open,04/08/2010,05/10/2018,purus eu magna vulputate luctus cum sociis natoque penatibus et magnis
+CUST043,Technical,Pending,28/01/2009,22/07/2013,scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante
+CUST044,General Inquiry,Pending,12/10/2022,28/01/2018,luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque
+CUST088,General Inquiry,Pending,25/09/2022,21/02/2009,tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo
+CUST001,General Inquiry,Pending,04/09/2021,03/10/2020,porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie
+CUST034,Billing,Open,04/04/2019,11/01/2021,eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis
+CUST093,General Inquiry,Open,22/08/2005,28/08/2003,pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in
+CUST087,General Inquiry,Pending,25/07/2022,01/06/2004,at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas
+CUST088,Technical,Pending,16/11/2007,03/06/2014,vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet
+CUST050,General Inquiry,Pending,08/10/2003,19/08/2012,mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu
+CUST076,Technical,Closed,20/05/2004,05/08/2010,venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo
+CUST016,Billing,Pending,28/10/2015,29/03/2003,congue eget semper rutrum nulla nunc purus phasellus in felis
+CUST074,Billing,Pending,20/11/2018,03/02/2005,et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut
+CUST011,Technical,Closed,10/10/2004,09/05/2004,augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst
+CUST023,Billing,Open,26/07/2022,03/08/2005,ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam
+CUST017,Billing,Pending,05/01/2013,21/01/2010,libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est
+CUST030,Billing,Open,26/04/2005,12/05/2019,elit ac nulla sed vel enim sit amet nunc viverra dapibus
+CUST047,Technical,Closed,14/07/2018,01/03/2009,nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque
+CUST087,Billing,Closed,31/12/2014,26/06/2011,massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit
+CUST056,General Inquiry,Closed,25/07/2005,27/06/2007,ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris
+CUST069,Billing,Open,15/09/2013,19/11/2003,nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec
+CUST057,General Inquiry,Pending,28/02/2022,28/06/2022,platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem
+CUST036,General Inquiry,Closed,01/01/2022,20/05/2012,integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor
+CUST079,Technical,Open,14/06/2010,07/01/2015,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium
+CUST037,Billing,Closed,24/12/2011,29/04/2006,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat
+CUST082,Billing,Open,23/08/2018,05/10/2017,adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci
+CUST037,Billing,Open,07/01/2017,30/05/2011,porttitor pede justo eu massa donec dapibus duis at velit
+CUST064,General Inquiry,Open,13/07/2007,21/09/2004,praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent
+CUST039,Billing,Pending,15/05/2004,29/07/2011,rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta
+CUST009,Billing,Pending,23/09/2003,14/11/2009,leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio
+CUST042,Billing,Closed,19/09/2014,29/07/2006,nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur
+CUST100,General Inquiry,Closed,22/02/2012,19/08/2019,sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+CUST011,Billing,Closed,10/08/2007,04/08/2015,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet
+CUST027,Billing,Closed,26/09/2022,10/05/2015,amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis
+CUST038,General Inquiry,Pending,15/02/2009,09/06/2008,eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui
+CUST062,Billing,Closed,13/04/2008,23/10/2021,cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet
+CUST043,Technical,Closed,16/01/2011,16/02/2022,rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet
+CUST073,Billing,Pending,14/03/2011,09/08/2005,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget
+CUST059,Billing,Open,31/08/2009,06/03/2014,vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede
+CUST061,Billing,Closed,02/04/2014,08/10/2011,venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi
+CUST084,Technical,Open,12/07/2020,08/01/2008,tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo
+CUST030,Billing,Pending,29/04/2022,18/10/2004,felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet
+CUST014,Technical,Closed,30/07/2020,30/06/2019,porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc
+CUST006,General Inquiry,Open,16/01/2021,04/06/2003,amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris
+CUST047,Billing,Pending,06/08/2013,17/11/2004,turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia
+CUST025,Billing,Pending,21/09/2017,05/08/2009,pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum
+CUST066,Technical,Closed,17/05/2019,23/11/2022,pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna
+CUST084,Billing,Open,21/12/2022,23/09/2006,nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus
+CUST089,General Inquiry,Pending,17/02/2015,04/07/2006,vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum
+CUST003,General Inquiry,Closed,06/02/2009,22/11/2009,pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo
+CUST097,General Inquiry,Pending,22/11/2018,22/09/2006,semper rutrum nulla nunc purus phasellus in felis donec semper sapien
+CUST049,Billing,Pending,08/11/2006,08/06/2015,curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus
+CUST030,Technical,Closed,12/02/2003,27/10/2009,enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in
+CUST076,General Inquiry,Open,23/10/2006,26/10/2003,suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa
+CUST072,General Inquiry,Pending,29/01/2013,11/07/2014,morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt
+CUST019,Technical,Open,11/11/2012,31/05/2005,in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat
+CUST024,General Inquiry,Pending,05/12/2016,20/03/2018,sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in
+CUST007,Technical,Open,18/09/2017,21/12/2008,dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id
+CUST068,General Inquiry,Pending,25/03/2014,01/08/2010,nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue
+CUST051,General Inquiry,Closed,24/04/2013,09/03/2020,id consequat in consequat ut nulla sed accumsan felis ut at
+CUST057,Technical,Pending,17/06/2021,21/11/2022,sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales
+CUST030,Billing,Pending,11/01/2006,22/06/2014,varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices
+CUST058,General Inquiry,Open,06/11/2009,03/07/2015,adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget
+CUST071,Technical,Pending,02/01/2007,14/10/2013,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel
+CUST084,Billing,Pending,04/10/2017,03/08/2013,turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus
+CUST059,Technical,Open,15/05/2017,25/12/2019,primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor
+CUST008,Technical,Open,03/02/2020,28/02/2018,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non
+CUST076,General Inquiry,Pending,08/03/2019,22/07/2008,turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget
+CUST088,Technical,Open,15/11/2011,13/06/2022,ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in
+CUST065,General Inquiry,Pending,19/11/2015,06/11/2011,pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper
+CUST054,Technical,Closed,11/09/2007,02/06/2013,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper
+CUST020,General Inquiry,Open,30/03/2011,08/02/2019,aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis
+CUST070,General Inquiry,Closed,26/12/2003,18/02/2011,elementum pellentesque quisque porta volutpat erat quisque erat eros viverra
+CUST020,General Inquiry,Closed,19/03/2018,01/12/2011,iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id
+CUST030,General Inquiry,Pending,19/05/2020,18/12/2004,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet
+CUST080,General Inquiry,Pending,25/07/2016,12/03/2015,convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas
+CUST032,Billing,Open,04/11/2017,15/02/2013,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus
+CUST028,Technical,Closed,29/08/2011,08/02/2019,vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue
+CUST039,General Inquiry,Closed,23/04/2013,26/08/2018,semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis
+CUST091,Billing,Pending,14/10/2004,23/04/2017,blandit non interdum in ante vestibulum ante ipsum primis in faucibus
+CUST078,Billing,Open,17/08/2019,14/09/2003,diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat
+CUST003,Technical,Open,31/05/2018,15/06/2011,convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat
+CUST067,General Inquiry,Closed,02/04/2018,28/11/2011,convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet
+CUST100,Billing,Closed,23/06/2015,05/10/2012,integer non velit donec diam neque vestibulum eget vulputate ut
+CUST088,Billing,Closed,28/08/2004,28/02/2010,integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi
+CUST038,General Inquiry,Pending,30/11/2012,11/12/2014,nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna
+CUST064,General Inquiry,Pending,16/04/2005,18/09/2020,cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis
+CUST082,Billing,Pending,21/06/2020,05/05/2022,donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien
+CUST013,Technical,Pending,27/07/2021,02/09/2007,leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue
+CUST067,Technical,Pending,24/07/2019,14/06/2019,lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus
+CUST059,Billing,Open,18/08/2007,03/11/2016,convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris
+CUST040,Billing,Open,15/10/2013,06/07/2007,nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere
+CUST056,Technical,Pending,04/11/2016,28/02/2017,venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum
+CUST062,Technical,Closed,21/01/2006,04/05/2012,semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio
+CUST023,General Inquiry,Open,06/01/2022,14/06/2012,accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean
+CUST099,Technical,Closed,04/02/2021,14/03/2004,volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante
+CUST030,Technical,Open,08/05/2008,07/12/2009,convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel
+CUST060,Technical,Pending,08/11/2014,16/07/2013,tristique est et tempus semper est quam pharetra magna ac consequat metus
+CUST020,General Inquiry,Open,06/03/2006,06/01/2022,ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit
+CUST017,Technical,Pending,28/10/2013,28/04/2005,aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut
+CUST051,General Inquiry,Closed,19/06/2009,03/03/2005,magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien
+CUST042,Billing,Closed,12/02/2010,27/05/2008,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis
+CUST053,Billing,Pending,02/06/2019,15/12/2012,massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut
+CUST047,General Inquiry,Pending,08/06/2020,24/06/2019,posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed
+CUST084,Billing,Closed,17/12/2016,23/02/2008,nisi at nibh in hac habitasse platea dictumst aliquam augue
+CUST010,Billing,Pending,13/07/2013,25/04/2018,in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor
+CUST073,General Inquiry,Pending,25/03/2018,01/03/2006,interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit
+CUST094,Technical,Open,14/09/2010,17/07/2010,libero nam dui proin leo odio porttitor id consequat in consequat ut nulla
+CUST024,General Inquiry,Closed,17/02/2008,29/01/2018,aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero
+CUST025,Billing,Open,11/02/2020,28/04/2005,in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit
+CUST034,Technical,Open,17/01/2009,26/06/2019,aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu
+CUST041,General Inquiry,Closed,29/06/2021,24/07/2003,praesent blandit nam nulla integer pede justo lacinia eget tincidunt
+CUST022,Billing,Closed,25/06/2004,26/09/2003,diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam
+CUST077,Technical,Open,09/05/2007,12/08/2008,pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla
+CUST048,General Inquiry,Closed,08/08/2012,08/07/2005,dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices
+CUST034,General Inquiry,Pending,30/12/2007,12/11/2009,nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa
+CUST019,Billing,Open,20/04/2006,31/03/2021,quis turpis eget elit sodales scelerisque mauris sit amet eros
+CUST093,Technical,Closed,25/05/2003,21/09/2004,id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et
+CUST072,Billing,Pending,19/05/2009,24/08/2012,iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus
+CUST084,General Inquiry,Open,28/06/2019,07/06/2013,risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede
+CUST019,Billing,Pending,09/06/2013,14/02/2022,nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi
+CUST075,General Inquiry,Pending,23/10/2020,19/06/2018,nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede
+CUST065,General Inquiry,Closed,24/07/2005,20/09/2008,cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem
+CUST029,General Inquiry,Open,07/04/2022,16/01/2003,et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor
+CUST087,Billing,Open,02/03/2011,14/02/2013,dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula
+CUST055,Billing,Pending,06/02/2016,14/02/2022,nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas
+CUST036,Billing,Closed,13/10/2003,25/06/2013,praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent
+CUST024,General Inquiry,Open,29/01/2016,18/08/2013,augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat
+CUST003,General Inquiry,Pending,14/04/2010,19/08/2019,ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in
+CUST095,Technical,Pending,07/10/2018,08/08/2019,gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi
+CUST026,Billing,Closed,18/07/2013,14/03/2020,consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac
+CUST004,Technical,Pending,28/05/2004,10/10/2006,non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed
+CUST002,Technical,Closed,22/11/2008,08/01/2004,in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur
+CUST027,Billing,Pending,11/04/2009,09/12/2022,magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent
+CUST069,General Inquiry,Open,26/03/2019,06/06/2004,amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique
+CUST079,General Inquiry,Closed,14/07/2020,28/05/2012,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+CUST016,Billing,Open,20/02/2006,09/06/2021,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at
+CUST031,Technical,Pending,21/11/2008,10/12/2018,auctor gravida sem praesent id massa id nisl venenatis lacinia aenean
+CUST050,Technical,Closed,09/04/2007,21/12/2019,tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis
+CUST048,Billing,Open,30/05/2015,15/06/2015,neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+CUST016,Billing,Pending,01/08/2016,21/03/2012,vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+CUST007,Technical,Pending,23/10/2008,26/10/2015,nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla
+CUST011,Billing,Closed,25/07/2015,22/12/2013,vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes
+CUST062,General Inquiry,Closed,12/04/2003,03/10/2019,sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet
+CUST005,Technical,Open,06/08/2022,24/05/2021,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu
+CUST031,General Inquiry,Closed,21/11/2005,06/04/2018,pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque
+CUST033,General Inquiry,Open,26/04/2003,30/07/2012,tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl
+CUST078,Technical,Closed,17/10/2017,15/03/2020,ut ultrices vel augue vestibulum ante ipsum primis in faucibus
+CUST027,General Inquiry,Pending,01/03/2021,16/09/2017,suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien
+CUST044,Billing,Closed,16/01/2007,08/05/2015,ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam
+CUST050,Billing,Open,09/12/2011,24/10/2006,suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut
+CUST042,Billing,Open,07/02/2007,05/06/2013,mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac
+CUST066,Billing,Closed,28/04/2020,30/09/2022,ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula
+CUST088,General Inquiry,Open,15/03/2010,18/01/2022,posuere cubilia curae nulla dapibus dolor vel est donec odio justo
+CUST100,Billing,Pending,02/12/2021,12/08/2004,erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus
+CUST036,Billing,Open,14/03/2013,07/09/2005,pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed
+CUST057,Technical,Closed,27/08/2007,16/10/2003,habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi
+CUST019,Technical,Pending,08/01/2020,03/04/2012,elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium
+CUST012,Technical,Open,29/01/2017,21/04/2013,duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in
+CUST032,Billing,Pending,30/01/2018,11/12/2018,eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut
+CUST035,General Inquiry,Open,05/11/2016,14/10/2005,amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut
+CUST008,Technical,Pending,22/08/2003,07/04/2004,bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem
+CUST010,Technical,Closed,11/09/2021,05/08/2008,malesuada in imperdiet et commodo vulputate justo in blandit ultrices
+CUST011,General Inquiry,Closed,04/07/2007,24/12/2007,leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam
+CUST074,General Inquiry,Pending,29/02/2016,10/01/2009,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+CUST088,Billing,Pending,06/08/2005,22/08/2007,mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet
+CUST007,Billing,Open,14/02/2006,26/03/2016,magnis dis parturient montes nascetur ridiculus mus etiam vel augue
+CUST045,Billing,Closed,23/03/2010,27/08/2012,donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit
+CUST050,Technical,Pending,23/08/2010,16/07/2013,mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere
+CUST025,Technical,Open,10/11/2019,12/08/2006,consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo
+CUST071,Billing,Open,11/11/2005,05/10/2007,viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris
+CUST062,Technical,Pending,02/07/2005,01/03/2018,vel est donec odio justo sollicitudin ut suscipit a feugiat
+CUST027,Technical,Pending,04/11/2003,23/02/2020,orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit
+CUST039,General Inquiry,Closed,02/11/2010,11/02/2021,sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum
+CUST066,General Inquiry,Open,27/03/2007,31/07/2007,ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed
+CUST049,Billing,Closed,30/11/2003,27/02/2018,tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum
+CUST001,Billing,Pending,22/03/2006,12/06/2022,nonummy integer non velit donec diam neque vestibulum eget vulputate
+CUST044,Technical,Pending,29/06/2011,12/08/2012,volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris
+CUST066,General Inquiry,Pending,13/08/2020,04/04/2005,cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan
+CUST051,Technical,Closed,07/04/2010,12/12/2009,platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel
+CUST082,General Inquiry,Closed,02/03/2006,22/07/2003,sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium
+CUST022,Billing,Closed,19/01/2017,27/04/2013,lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in
+CUST060,Billing,Pending,03/07/2016,18/12/2005,iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut
+CUST008,Billing,Closed,18/08/2015,11/01/2003,nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel
+CUST044,General Inquiry,Closed,19/11/2020,15/02/2008,in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est
+CUST022,Technical,Open,01/02/2009,22/10/2019,turpis adipiscing lorem vitae mattis nibh ligula nec sem duis
+CUST027,Billing,Closed,07/05/2012,25/09/2022,risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien
+CUST037,General Inquiry,Pending,12/08/2006,20/08/2016,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor
+CUST096,Technical,Open,17/01/2008,14/02/2014,sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus
+CUST078,General Inquiry,Pending,14/02/2007,02/08/2019,primis in faucibus orci luctus et ultrices posuere cubilia curae
+CUST030,General Inquiry,Closed,05/05/2003,21/11/2003,nunc rhoncus dui vel sem sed sagittis nam congue risus
+CUST079,General Inquiry,Open,04/11/2005,04/03/2004,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum
+CUST052,General Inquiry,Closed,31/01/2020,20/01/2020,at nunc commodo placerat praesent blandit nam nulla integer pede justo
+CUST071,Billing,Closed,29/11/2014,19/05/2004,purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam
+CUST082,General Inquiry,Closed,04/01/2022,09/08/2007,eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc
+CUST013,Billing,Closed,18/01/2020,08/10/2016,quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis
+CUST012,Billing,Open,23/10/2019,06/10/2010,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet
+CUST061,General Inquiry,Closed,18/07/2021,04/03/2016,dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris
+CUST059,General Inquiry,Pending,06/05/2011,06/03/2020,mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget
+CUST058,Billing,Pending,17/03/2015,28/06/2010,fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim
+CUST079,Billing,Pending,24/04/2013,11/07/2020,ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+CUST046,Billing,Closed,29/06/2017,03/12/2018,amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque
+CUST066,General Inquiry,Closed,18/11/2004,23/12/2014,augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in
+CUST068,Technical,Closed,07/12/2019,23/12/2010,volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum
+CUST013,Technical,Pending,26/02/2016,09/10/2009,lectus in est risus auctor sed tristique in tempus sit
+CUST018,General Inquiry,Closed,15/06/2006,25/10/2007,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est
+CUST088,Technical,Pending,05/10/2011,03/04/2005,nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce
+CUST067,Billing,Pending,21/07/2012,15/06/2012,elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla
+CUST052,Technical,Closed,21/02/2021,21/08/2009,lorem id ligula suspendisse ornare consequat lectus in est risus
+CUST036,Technical,Closed,13/09/2012,04/10/2009,volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit
+CUST042,General Inquiry,Pending,29/03/2004,27/01/2006,in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero
+CUST018,Technical,Open,22/04/2013,12/02/2017,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi
+CUST055,Technical,Open,12/10/2016,22/01/2019,sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin
+CUST068,Billing,Closed,12/06/2009,11/07/2004,nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta
+CUST053,General Inquiry,Closed,14/11/2013,22/10/2020,montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et
+CUST100,General Inquiry,Open,21/03/2009,01/08/2004,pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo
+CUST087,General Inquiry,Open,25/08/2022,02/05/2014,donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in
+CUST099,General Inquiry,Pending,06/12/2003,09/02/2016,fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse
+CUST085,Billing,Pending,06/11/2012,17/07/2019,volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed
+CUST026,Technical,Open,31/10/2012,29/08/2013,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac
+CUST050,Billing,Open,09/04/2017,05/04/2021,sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum
+CUST037,Technical,Pending,18/09/2006,30/04/2021,nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at
+CUST050,Billing,Closed,23/04/2022,07/11/2010,turpis enim blandit mi in porttitor pede justo eu massa donec
+CUST062,Technical,Pending,30/08/2007,21/09/2015,elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus
+CUST072,General Inquiry,Open,06/04/2016,19/03/2013,accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean
+CUST091,General Inquiry,Closed,17/04/2013,12/09/2008,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum
+CUST095,Billing,Open,12/09/2021,03/07/2008,velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante
+CUST060,Technical,Pending,09/05/2016,04/03/2010,id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in
+CUST006,General Inquiry,Closed,17/03/2008,19/06/2015,eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar
+CUST020,Billing,Pending,29/06/2013,05/03/2021,maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien
+CUST096,Technical,Closed,26/01/2008,04/03/2019,in felis eu sapien cursus vestibulum proin eu mi nulla ac
+CUST048,General Inquiry,Closed,07/05/2011,25/04/2022,nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis
+CUST005,General Inquiry,Open,14/03/2005,31/08/2017,vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec
+CUST052,Technical,Open,17/09/2017,23/11/2022,facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit
+CUST033,Technical,Pending,16/04/2011,22/11/2016,dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut
+CUST042,Billing,Closed,13/10/2012,12/11/2015,ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu
+CUST083,General Inquiry,Closed,20/03/2006,08/08/2019,mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel
+CUST043,General Inquiry,Closed,09/03/2016,26/02/2011,massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo
+CUST084,General Inquiry,Closed,28/07/2004,17/08/2016,et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante
+CUST028,Billing,Open,13/07/2014,20/09/2018,posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit
+CUST087,Technical,Closed,27/04/2016,10/02/2014,enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est
+CUST062,General Inquiry,Pending,30/10/2019,26/03/2022,sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla
+CUST070,General Inquiry,Open,14/08/2020,28/06/2013,potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis
+CUST085,Billing,Open,16/09/2011,07/07/2018,eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id
+CUST003,General Inquiry,Open,27/08/2021,26/05/2021,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue
+CUST007,Technical,Open,07/04/2021,24/11/2011,nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu pede
+CUST008,General Inquiry,Open,09/01/2013,20/05/2007,in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis
+CUST041,General Inquiry,Pending,29/11/2014,27/11/2007,in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu
+CUST029,Billing,Pending,03/06/2019,02/07/2011,sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit
+CUST055,General Inquiry,Open,04/02/2012,16/05/2005,justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam
+CUST081,Technical,Closed,29/09/2016,16/03/2012,vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod
+CUST008,Billing,Closed,15/05/2021,29/08/2020,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+CUST080,Billing,Closed,22/04/2022,19/10/2009,massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet
+CUST029,Billing,Closed,31/12/2004,16/01/2005,nullam sit amet turpis elementum ligula vehicula consequat morbi a
+CUST050,General Inquiry,Pending,11/12/2020,30/06/2006,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula
+CUST006,Technical,Pending,25/03/2012,23/06/2011,pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum
+CUST003,General Inquiry,Open,11/07/2007,17/01/2015,enim blandit mi in porttitor pede justo eu massa donec
+CUST003,Billing,Pending,19/01/2004,16/03/2013,lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in
+CUST032,Technical,Pending,25/11/2004,04/03/2005,euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula
+CUST009,General Inquiry,Pending,25/12/2016,05/12/2003,cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros
+CUST076,General Inquiry,Closed,08/01/2013,30/08/2019,eu massa donec dapibus duis at velit eu est congue elementum
+CUST091,Billing,Closed,12/08/2006,11/11/2020,donec ut mauris eget massa tempor convallis nulla neque libero convallis
+CUST023,Technical,Closed,16/03/2005,01/10/2003,curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus
+CUST054,General Inquiry,Closed,04/07/2003,08/06/2006,bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris
+CUST067,Technical,Closed,28/05/2009,07/06/2005,leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue
+CUST063,General Inquiry,Open,24/08/2015,02/12/2020,gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam
+CUST058,General Inquiry,Closed,14/09/2017,21/11/2018,eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus
+CUST021,Billing,Open,03/10/2014,21/12/2003,in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis
+CUST039,General Inquiry,Closed,26/06/2014,01/12/2011,non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed
+CUST072,General Inquiry,Open,27/02/2014,24/03/2014,odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac
+CUST046,Technical,Closed,08/10/2016,17/07/2022,nunc rhoncus dui vel sem sed sagittis nam congue risus
+CUST008,Technical,Open,12/01/2003,09/12/2006,nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros
+CUST087,Billing,Closed,06/12/2015,04/06/2016,habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt
+CUST076,Technical,Closed,11/11/2019,18/06/2022,pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque
+CUST046,Technical,Open,04/04/2005,26/11/2004,nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis
+CUST051,Technical,Closed,20/07/2004,19/02/2007,ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem
+CUST029,Billing,Open,02/12/2010,02/12/2003,dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam
+CUST081,Billing,Closed,17/02/2008,19/06/2005,rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo
+CUST029,General Inquiry,Pending,07/08/2022,01/07/2020,justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin
+CUST002,General Inquiry,Pending,29/12/2009,30/01/2022,mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis
+CUST050,Technical,Closed,10/05/2014,23/05/2004,massa id nisl venenatis lacinia aenean sit amet justo morbi ut
+CUST085,General Inquiry,Open,18/01/2021,22/08/2006,proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget
+CUST091,Billing,Closed,20/12/2022,17/07/2022,proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue
+CUST055,General Inquiry,Open,28/12/2016,14/08/2010,in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices
+CUST061,Billing,Open,17/06/2007,30/05/2019,libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac
+CUST006,Billing,Closed,17/11/2010,02/04/2006,aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse
+CUST027,Technical,Open,17/05/2011,01/06/2005,sapien urna pretium nisl ut volutpat sapien arcu sed augue
+CUST046,General Inquiry,Open,28/01/2003,29/01/2004,id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in
+CUST080,Billing,Pending,06/07/2009,11/10/2022,nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede
+CUST045,Technical,Closed,01/03/2017,20/09/2022,sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui
+CUST036,Technical,Pending,22/05/2007,24/08/2004,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum
+CUST038,Technical,Closed,27/11/2014,29/08/2007,sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque
+CUST040,General Inquiry,Closed,04/05/2009,05/03/2009,eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis
+CUST030,General Inquiry,Open,09/01/2013,09/02/2012,rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id
+CUST032,General Inquiry,Pending,21/03/2017,28/06/2012,enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis
+CUST026,General Inquiry,Pending,30/08/2021,10/09/2020,id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate
+CUST086,General Inquiry,Open,21/02/2012,12/07/2005,nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in
+CUST040,Billing,Closed,05/01/2008,09/06/2010,nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis
+CUST054,General Inquiry,Open,10/05/2017,01/02/2006,consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero
+CUST018,General Inquiry,Pending,11/08/2018,12/03/2018,nam congue risus semper porta volutpat quam pede lobortis ligula sit amet
+CUST011,Billing,Open,25/02/2019,18/10/2006,lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris
+CUST078,Billing,Closed,17/10/2021,28/12/2019,nunc proin at turpis a pede posuere nonummy integer non
+CUST031,General Inquiry,Closed,26/06/2004,27/01/2020,tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare
+CUST012,Billing,Closed,29/12/2015,19/01/2013,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat
+CUST071,Technical,Closed,13/01/2008,03/09/2022,in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio
+CUST055,General Inquiry,Open,04/02/2003,11/05/2020,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien
+CUST086,Technical,Closed,27/09/2012,26/10/2019,magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus
+CUST006,Technical,Open,29/07/2020,19/01/2015,nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse
+CUST099,Billing,Closed,28/08/2008,24/10/2021,auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum
+CUST047,Technical,Closed,31/01/2007,17/02/2004,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam
+CUST018,General Inquiry,Closed,20/11/2016,13/07/2010,condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et
+CUST052,Technical,Closed,12/12/2022,13/04/2020,ligula nec sem duis aliquam convallis nunc proin at turpis a
+CUST076,General Inquiry,Pending,13/03/2005,10/05/2009,at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in
+CUST007,Technical,Closed,12/07/2014,27/06/2018,non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque
+CUST100,General Inquiry,Closed,19/11/2011,29/09/2020,elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum
+CUST076,General Inquiry,Closed,19/05/2018,19/09/2020,ut erat curabitur gravida nisi at nibh in hac habitasse
+CUST062,Billing,Closed,11/10/2004,10/01/2016,at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer
+CUST099,Billing,Pending,24/04/2008,26/09/2009,maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut
+CUST091,Technical,Open,11/12/2014,04/10/2004,felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut
+CUST076,General Inquiry,Pending,01/09/2017,05/03/2020,vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas
+CUST080,Technical,Open,04/12/2012,12/05/2009,purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in
+CUST033,Technical,Pending,09/09/2017,29/06/2007,convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in
+CUST076,Technical,Pending,18/07/2008,07/08/2009,metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci
+CUST062,Technical,Closed,14/08/2005,13/12/2007,porta volutpat erat quisque erat eros viverra eget congue eget
+CUST020,Billing,Open,05/08/2010,10/07/2015,vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend
+CUST030,Billing,Open,10/11/2009,17/08/2011,eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse
+CUST076,Billing,Pending,28/07/2017,30/09/2003,vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing
+CUST009,General Inquiry,Closed,08/07/2004,10/06/2022,erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit
+CUST036,Technical,Pending,15/01/2003,26/08/2009,est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante
+CUST098,Billing,Closed,22/09/2009,06/10/2015,nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc
+CUST083,Technical,Open,18/01/2006,04/04/2006,in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet
+CUST019,Billing,Pending,20/08/2020,04/11/2012,adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus
+CUST075,General Inquiry,Pending,22/01/2014,05/07/2011,curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo
+CUST094,General Inquiry,Closed,29/05/2015,10/09/2013,quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis
+CUST049,Technical,Open,17/10/2018,28/05/2015,rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo
+CUST069,General Inquiry,Pending,12/12/2014,25/09/2013,curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus
+CUST063,Technical,Pending,12/05/2011,22/11/2004,cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes
+CUST086,Billing,Open,04/03/2007,12/10/2005,sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+CUST085,General Inquiry,Pending,16/08/2011,04/06/2005,in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc
+CUST091,General Inquiry,Open,04/11/2012,16/05/2006,arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse
+CUST040,Billing,Pending,16/10/2022,16/10/2009,vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas
+CUST019,Technical,Open,24/08/2014,08/01/2019,consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus
+CUST071,Billing,Pending,27/04/2015,20/05/2014,dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non
+CUST066,General Inquiry,Closed,17/08/2010,10/05/2020,pretium iaculis justo in hac habitasse platea dictumst etiam faucibus
+CUST035,General Inquiry,Closed,18/03/2014,24/04/2007,sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis
+CUST084,Billing,Pending,24/11/2016,16/01/2018,magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum
+CUST075,Technical,Closed,02/04/2003,24/05/2003,fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit
+CUST001,Billing,Pending,24/01/2016,08/01/2005,quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in
+CUST027,Billing,Open,31/03/2004,05/12/2004,nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus
+CUST099,Technical,Closed,12/07/2011,01/09/2016,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien
+CUST050,General Inquiry,Pending,09/06/2021,11/10/2012,tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis
+CUST061,General Inquiry,Closed,02/08/2004,19/07/2019,suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien
+CUST088,Technical,Open,15/08/2015,25/05/2019,non mauris morbi non lectus aliquam sit amet diam in magna
+CUST055,Billing,Pending,07/02/2006,08/11/2011,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel
+CUST001,Technical,Pending,04/02/2003,27/11/2015,lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis
+CUST046,Technical,Pending,05/01/2013,10/01/2010,nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel
+CUST033,Technical,Pending,20/10/2022,30/04/2009,aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros
+CUST092,General Inquiry,Pending,08/08/2019,16/06/2017,nulla neque libero convallis eget eleifend luctus ultricies eu nibh
+CUST070,Billing,Pending,10/11/2018,02/12/2004,fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa
+CUST061,General Inquiry,Pending,09/08/2017,24/11/2020,ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis
